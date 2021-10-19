@@ -1,2 +1,6 @@
+---
+layout: page
+title: home
+---
 <h1>This is the landing page</h1>
 <a href="test.html">Test page</a>
