@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: test
 ---
 
 <h1>Welcome</h1>
