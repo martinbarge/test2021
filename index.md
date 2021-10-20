@@ -10,7 +10,7 @@ title: home
   /*height: 100%;*/
   }
 </style>
-  
+
 <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
@@ -19,21 +19,21 @@ title: home
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Los_Angeles_with_Mount_Baldy.jpg" alt="Los Angeles" width="1100" height="500">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Los_Angeles_with_Mount_Baldy.jpg" alt="Los Angeles" width="1100" height="500" />
       <div class="carousel-caption">
         <h3>Los Angeles</h3>
         <p>We had such a great time in LA!</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/BigLaw_Chicago.jpg" alt="Chicago" width="1100" height="500">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/BigLaw_Chicago.jpg" alt="Chicago" width="1100" height="500" />
       <div class="carousel-caption">
         <h3>Chicago</h3>
         <p>Thank you, Chicago!</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmpireStateNewYokCity.jpg" alt="New York" width="1100" height="500">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmpireStateNewYokCity.jpg" alt="New York" width="1100" height="500" />
       <div class="carousel-caption">
         <h3>New York</h3>
         <p>We love the Big Apple!</p>
@@ -47,5 +47,7 @@ title: home
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
+
+
 <h1>This is the landing page</h1>
 <a href="test.html">Test page</a>
