@@ -7,7 +7,7 @@ title: home
 /* Make the image fully responsive */
 .carousel-inner img {
   width: 100%;
-  /*height: 100%;*/
+  height: 500px;
   }
 </style>
 
