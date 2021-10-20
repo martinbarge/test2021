@@ -2,6 +2,15 @@
 layout: page
 title: home
 ---
+
+<style>
+/* Make the image fully responsive */
+.carousel-inner img {
+  width: 100%;
+  /*height: 100%;*/
+  }
+</style>
+  
 <div id="demo" class="carousel slide" data-ride="carousel">
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
